@@ -1,5 +1,5 @@
 # Dashboard
-https://is-a-good-dev.github.io/Dashboard
+https://is-a-good-dev.github.io/dashboard
 
 ### Made By
 * [Tweak](https://github.com/Tweak4141)
