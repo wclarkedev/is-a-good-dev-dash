@@ -14,7 +14,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("https://is-a-good-dev.github.io/dashboard/assets/error-background.jpg"), no-repeat fixed;
+    background: url("https://is-a-good-dev.github.io/dashboard/assets/error-background.jpg"), no-repeat;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
 }
 
