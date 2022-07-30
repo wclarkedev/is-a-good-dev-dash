@@ -6,12 +6,29 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <title>Error 500 | Internal Server Error</title>
+
+        <link rel="stylesheet" href="css/500.css">
     </head>
 
     <body>
-        <h2>Error 500</h2>
-        <h4>Internal Server Error</h4>
-        <p>An internal server error has occurred. Please try again later.</p>
-        <a href="/">Go Home</a>
+        <div id="container">
+            <div class="content">
+                <h2>Error 500</h2>
+                <h4>Internal Server Error</h4>
+                <p>An internal server error has occurred. Please try again later.</p>
+                <a href="/Dashboard">Go Home</a>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            var container = document.getElementById("container");
+            window.onmousemove = function(e) {
+                var x = e.clientX/10,
+                    y = e.clientY/10;
+                
+                container.style.backgroundPositionX = x + "px";
+                container.style.backgroundPositionY = y + "px";
+            }
+        </script>
     </body>
 </html>
