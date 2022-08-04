@@ -1,4 +1,4 @@
-# is-a-good.dev Registration
+# is-a-good.dev Dashboard
 https://dashboard.is-a-good.dev
 
 ## Contributors
