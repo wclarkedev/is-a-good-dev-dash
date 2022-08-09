@@ -1,7 +1,7 @@
 # is-a-good.dev Dashboard
 https://dashboard.is-a-good.dev
 
-The dashboard will be used to sign up new users or existing users to modify, signup for and delete their domain record. 
+The dashboard will be used to sign up new users or existing users to modify, signup for and delete their domain records. 
 
 ## Features
 - Clean UI design
