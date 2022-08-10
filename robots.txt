@@ -1,0 +1,6 @@
+User-agent:*
+Allow: /login/*
+Allow: /sign-up/*
+Disallow: /errors/*
+Disallow: /.github/*
+Disallow: /dash/*
